@@ -1,0 +1,20 @@
+{
+    "name": "eheuje/mapping-bundle",
+    "description": "Provide data mapper for symfony 2 project",
+    "type": "library",
+    "require": {
+        "php": ">=5.3.9",
+        "symfony/symfony": ">=2.6"
+    },
+    "target-dir": "Eheuje/MappingBundle",
+    "autoload": {
+        "psr-0": { "Eheuje\\MappingBundle": "" }
+    },
+    "license": "GLP-3.0",
+    "authors": [
+        {
+            "name": "Jean-Yves CAMIER",
+            "email": "jycamier@clever-age.com"
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+parameters:
+    eheuje_mapping.mappers.base_mapper.class: Eheuje\MappingBundle\Mappers\BaseMapper
+
+services:
+
+
